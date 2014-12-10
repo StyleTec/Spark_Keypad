@@ -29,7 +29,7 @@
 || #
 ||
 */
-#include <Spark_Keypad.h>
+#include "Spark_Keypad.h"
 
 // <<constructor>> Allows custom keymap, pin configuration, and keypad sizes.
 Keypad::Keypad(char *userKeymap, byte *row, byte *col, byte numRows, byte numCols) {
