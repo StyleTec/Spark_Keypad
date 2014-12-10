@@ -29,6 +29,8 @@
 ||
 */
 
+#include "application.h"
+
 #ifndef KEY_H
 #define KEY_H
 
