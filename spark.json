@@ -1,0 +1,7 @@
+{
+    "name": "Spark_Keypad",
+    "version": "0.0.1",
+    "author": "Bastian Mencke <bm@flyinghero.de>",
+    "license": "GPL v2.0",
+    "description": "A keypad library 4x3"
+}
